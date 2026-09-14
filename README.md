@@ -17,9 +17,8 @@ The goal of this repository is to build and test the fundamental gameplay loop b
 
 | Technology | Type |
 | :--- | :--- |
-| **Engine** | ![Unreal Engine 5](https://shields.io) |
-| **Language** | ![C++](https://shields.io++
--00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Engine** | Unreal Engine 5 |
+| **Language** | C++ |
 
 ---
 
