@@ -1,6 +1,6 @@
 #  Handmade-
 
-Welcome to the **core technical prototype** of my upcoming game project.
+Welcome to the **core technical prototype** of the upcoming game project.
 
 The goal of this repository is to build and test the fundamental gameplay loop before expanding into content, graphics, and world-building. This version is intentionally minimalist and feature-light, focusing entirely on solidifying the **core movement and interaction mechanics**.
 
